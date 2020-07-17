@@ -3,6 +3,7 @@ title: "Reproducible Research: Peer Assessment 1"
 author: "Abdul Baseer Buriro"
 date: "7/15/2020"
 output: html_document
+keep_md: true
 ---
 ## Loading and Preprocessing the data
 The following chunck of R code is to read the data from the disk.Except for NA, the data is clean, and consequently does not need preprocessing. The required preprocessing in done in each R code chunck.
